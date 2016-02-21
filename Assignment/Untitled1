@@ -1,0 +1,2 @@
+$ gcc -o assign1 -g assign1.c
+dukiemar@systems_programming:~/workspace $ ./assign1 linux.words time.txt
